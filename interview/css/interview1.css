@@ -1,0 +1,67 @@
+
+
+body {
+  background: #778899;
+  color: white;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+#container {
+  max-width: 800px;
+
+}
+
+
+#toc {
+  position: fixed;
+  top: 1em;
+  left: 90em;
+  background: white;
+  color: black;
+  padding: 2em;
+  font-size: 0.6em;
+
+}
+
+a {
+  color: black;
+  text-decoration: none;
+ 
+}
+
+a:hover {
+  color: gray;
+}
+
+
+#toc ol {
+  padding: 0em;
+  list-style-type: none;
+  }
+
+
+.highlight {
+  background: white;
+  color: black;
+}
+
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 5em;
+  line-height: 1.1;
+  margin-bottom: 0em;
+}
+
+h2 {
+  background: #B0C4DE;
+  padding: 0em;
+  font-weight: bold;
+  color: black;
+  margin-top: 1em;
+}
+
