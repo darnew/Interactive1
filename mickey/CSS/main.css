@@ -1,0 +1,126 @@
+
+/* reset styles */
+* { margin: 0px; padding: 0px; }
+
+/* make the background of the page black */
+body { background: black;}
+
+/* mickey canvas */
+#canvas {
+  width: 400px;
+  height: 600px;
+  position: relative;
+  background: white;
+}
+
+/* shapes */
+/* make all divs inside of #canvas a circle */
+#canvas div{
+  border-radius: 200px;
+  position: absolute;
+}
+
+/* 
+adjust the top and left 
+properties of the elements
+to position them 
+*/
+
+#ear-1 {
+  width: 100px;
+  height: 100px;
+  background: black;
+  top: 45px;
+  left: 229px;
+  
+}
+
+#ear-2 {
+  width: 100px;
+  height: 100px;
+  background: black;
+  left: 60px;
+  bottom: 430px;
+
+}
+
+#head {
+  width: 140px;
+  height: 140px;
+  background: beige;
+  left: 134px;
+  bottom: 343px;
+}
+
+#eye-1 {
+  width: 25px;
+  height: 25px;
+  background: black;
+  left: 160px;
+  bottom: 425px;
+}
+
+#eye-2 {
+  width: 25px;
+  height: 25px;
+  background: black;
+  left: 200px;
+  bottom: 426px;
+}
+
+#nose {
+  width: 45px;
+  height: 45px;
+  background: black;
+  left: 238px;
+    bottom: 388px;
+}
+
+#mouth {
+  width: 35px;
+  height: 35px;
+  background: red;
+  left: 160px;
+  bottom: 350px;
+}
+
+#body {
+  width: 160px;
+  height: 160px;
+  background: red;
+  left: 141px;
+ bottom: 180px;
+
+}
+
+#button-1 {
+  width: 32px;
+  height: 32px;
+  background: black;
+  left: 180px;
+  bottom: 250px;
+}
+
+#button-2 {
+  width: 32px;
+  height: 32px;
+  background: black;
+  left: 230px;
+  bottom: 250px;
+}
+
+#foot-1 {
+  width: 150px;
+  height: 150px;
+  background: yellow;
+  bottom: 50px;
+  left: 50px;
+}
+
+#foot-2 {
+  width: 150px;
+  height: 150px;
+  background: yellow;
+  bottom: 50px;
+  right: 30px;
+}
