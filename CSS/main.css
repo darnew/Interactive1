@@ -26,3 +26,12 @@ h3 {
 
 }
 li{text-align: center;
+
+
+a:hover {
+  color: white;
+}
+
+a, a:visited {
+  color: black;
+}
