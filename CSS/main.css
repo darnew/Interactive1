@@ -27,14 +27,15 @@ h3 {
 }
 li{text-align: center;}
 
+a, a:visited {
+  color: black;
+}
 
 a:hover {
   color: white;
   text-decoration: none;
 }
 
-a, a:visited {
-  color: black;
-}
+
 
 
