@@ -25,13 +25,16 @@ h3 {
   letter-spacing: 5px;
 
 }
-li{text-align: center;
+li{text-align: center;}
 
 
 a:hover {
   color: white;
+  text-decoration: none;
 }
 
 a, a:visited {
   color: black;
 }
+
+
