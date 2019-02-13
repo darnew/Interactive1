@@ -13,13 +13,60 @@ body {
         width: 500px;
         height: 300px;
         position: relative;
-        background: white;
+        background: green;
 }
+ 
+ #star {
+      
+      color: white;
+      font-size: 25px;
+      float:left;
+      margin-left:23px;
+      margin-top:0px;
+    }
+
+ #star2 {
+      
+      color: white;
+      font-size: 25px;
+      margin-left:15px;
+      margin-top:0px;
+    }
+
+    #star3{
+      
+      color: white;
+      font-size: 25px;
+      float:left;
+      margin-left:20px;
+      margin-top:0px;
+    }
+
+    #star4 {
+      
+      color: white;
+      font-size: 25px;
+      float:left;
+      margin-left:7px;
+      margin-top:10px;
+    }
+
+    #star5 {
+      
+      color: white;
+      font-size: 25px;
+      float:left;
+      margin-left:50px;
+      margin-top:0px;
+    }
+   
 
 /* shapes */
-#circle {
-        element.style 
-        width: 80px;
-        height: 80px;
-        background: red;
-        border-radius: 75px;}
+#square {
+        /*element.style */
+        width: 160px;
+        height: 160px;
+      /*  margin: 10px;*/
+        background: blue;
+       }
+
