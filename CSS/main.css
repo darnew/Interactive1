@@ -38,4 +38,12 @@ a:hover {
 
 
 
+@keyframes background {
+  50%   { background: black; }
+  100%  { background: white; }
+}
+
+body { 
+  animation: background 8000ms alternate infinite;
+}
 
