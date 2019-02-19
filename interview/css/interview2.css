@@ -13,7 +13,7 @@ html {
     #toc {
   position: fixed;
   top: 5em;
-  right: 150em;
+  right: 125em;
   background: white;
   color: black;
   padding: 1em;
@@ -29,7 +29,7 @@ html {
 }
 
 body {
-  font-size: 12px;
+  font-size: 15px;
   margin: 0;
   overflow-x: hidden;
   margin: auto;
