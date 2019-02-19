@@ -1,0 +1,83 @@
+/* reset styles */
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: black;
+        font-size: 200px;
+        color: yellow;
+        font-color:yellow;
+}
+
+/* flag canvas */
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: green;
+        color: yellow;
+        
+}
+ #canvas:hover {
+         background-color: white;
+         color: yellow;
+         }
+
+   
+
+/* shapes */
+#square {
+        /*element.style */
+        width: 500px;
+        height: 75px;
+        color: yellow;
+      /*  margin: 10px;*/
+        background: blue;
+        bottom: 75px;
+       }
+
+#square:hover {
+         background-color: red;
+         color: yellow;
+         }
+
+#square2 {
+        /*element.style */
+        width: 500px;
+        height: 75px;
+      /*  margin: 10px;*/
+        background: blue;
+        margin-top: 75px;       }
+
+#square2:hover {
+         background-color: red;
+         color: yellow;
+         }
+
+#star {
+          color: yellow;
+          position: absolute;
+          
+          top: 0px;
+          left: 150px;
+          
+          /*transition-property: all;
+          transition-duration: 10s;
+          transition-timing-function: linear;
+          transition-delay: 1s;*/
+          
+        }
+
+
+#star:hover {
+
+         color: brown;
+         transition: color 2s ease;
+         animation: point2 3s alternate infinite;
+        }
+
+
+
+
