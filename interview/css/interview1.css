@@ -3,7 +3,7 @@
 body {
   background: #778899;
   color: white;
-  font-size: 18px;
+  font-size: 20px;
   -webkit-font-smoothing: antialiased;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 
@@ -63,5 +63,6 @@ h2 {
   font-weight: bold;
   color: black;
   margin-top: 1em;
+  width: 6.5em;
 }
 
