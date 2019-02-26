@@ -3,6 +3,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    background-color: black;
+    color: black;
 }
 body {
     background: black;
@@ -19,11 +21,11 @@ body {
 /* tablet */
 @media (min-width: 500px) and (max-width: 1000px) {
     body {
-        background: grey;
+        background: black;
     }
     #tablet {
         display: inline;
-        color: white;
+        color: black;
     }
     #desktop,
     #mobile,
@@ -32,13 +34,15 @@ body {
     }
 }
 /* mobile */
-@media (max-width: 670px) {
+@media (max-width: 750px) {
     body {
-        background: white;
-    }
+    background: black;
+}
     #mobile {
         display: inline;
         color: black;
+        height: 50px;
+        width: 50px;
     }
     #desktop,
     #tablet,
@@ -46,14 +50,14 @@ body {
         display: none;
     }
 }
-/* print */
-@media print {
+/* small */
+@media (max-width: 670px) {
     body {
-        background: white;
-    }
+    background: black;
+}
     #print {
         display: inline;
-        color: black;
+        
     }
     #desktop,
     #tablet,
