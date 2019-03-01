@@ -10,22 +10,23 @@
 
 body {
   color: white;
-  background-image: url("preview.jpg");
-  font-family: "Arial"
+  background-color: grey;
+  font-family: "Arial";
+  height: 200vh;
 
 
 
 }
 h1{font-size: 100px}
-h1{text-decoration: line-through;}
+
 
 h7{font-size: 40px}
-h3{text-align: center;}
+
 h3 {
   letter-spacing: 5px;
 
 }
-li{text-align: center;}
+
 
 a, a:visited {
   color: black;
@@ -37,7 +38,7 @@ a:hover {
 }
 
 
-
+/*
 @keyframes background {
   50%   { background: black; }
   100%  { background: white; }
@@ -46,4 +47,10 @@ a:hover {
 body { 
   animation: background 8000ms alternate infinite;
 }
+*/
+
+
+
+body.colorful {
+  background-image: url("preview.jpg");
 
