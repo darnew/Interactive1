@@ -1,6 +1,8 @@
-$(window).scroll(function() {
-		alert('Interactive 1/ Spring 2019');
-	});
+$("#formButton").click(function(){
+        $("#form1").toggle();
+    });
 
-
+$("#formButton2").click(function(){
+        $("#form2").toggle();
+    });
 
