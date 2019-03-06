@@ -4,32 +4,40 @@
 
 }
 
-span.emoji {
-  font-size: 50px;
-  vertical-align: middle;
-  line-height: 2;
-  margin-left: 50%;
-  border-top: 50%;
+#cirlce {
+  
+  
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) ;
 }
 
 #one{
 margin-left:500px;
 margin-top:300px;
+font-size: 100px;
+
 }
 
 #two{
 margin-left:100px;
 margin-top:200px;
+
 }
 
 #three{
 margin-left:300px;
 margin-top:300px;
+
 }
 
 #four{
 margin-left:450px;
 margin-top:200px;
+
 }
 
 #five{
@@ -40,9 +48,29 @@ margin-top:500px;
 #six{
 margin-left:200px;
 margin-top:100px;
+
 }
 
+#red {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) ;
+}
 
+#form1 {
+
+display:none;
+
+}
+
+#form2 {
+
+display:none;
+
+}
 
 @keyframes background {
   50%   { background: white; }
