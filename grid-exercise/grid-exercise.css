@@ -1,0 +1,158 @@
+@font-face {
+  font-family: gt_haptik_trialmedium_rotalic;
+  src: url('gt-haptik-trial-medium-rotalic-webfont.woff2') format('woff2'), 
+       url('grid-exercise/gt-haptik-trial-medium-rotalic-webfont.woff') format('woff');
+}
+
+body {background-color:  white;
+font-family: 'gt_haptik_trialmedium_rotalic', sans-serif;}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 15px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 400px;
+  grid-template-rows: 400px 400px 400px 400px 400px;
+  grid-gap: 10px;
+  justify-content: center;
+}
+
+/* black bg for swap */
+
+.pink-bg {
+  background: #dec0c2;
+}
+
+.g-bg {
+  background: #ceced0;
+}
+
+.blue-bg {
+  background: #78a3da;
+}
+
+.purple-bg {
+  background: #944079;
+}
+
+.gr-bg {
+  background: #9b887f;
+}
+
+.gra-bg {
+  background: #2a2226;
+}
+
+.red-bg {
+  background: #b21725;
+}
+
+.gray-bg {
+  background: #80898b;
+}
+
+/* all the grid item ids can be written as one class */
+
+.grid-item {
+  transform-origin: center;
+  width: 400px;
+  height: 400px;
+  animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+
+#h1 {font-family: 'gt_haptik_trialmedium_rotalic' }
+
+.playlist {
+    position: absolute;
+    margin: auto;
+    top: 310%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.flower-1 {
+    position: absolute;
+    margin: auto;
+    top: 5%;
+    left: 85%;
+}
+.flower-2 {
+    position: absolute;
+    margin: auto;
+    top: 5%;
+    left: 3%;
+}
+.flower-3 {
+    position: absolute;
+    margin: auto;
+    top: 200%;
+    left: 10%;
+}
+.flower-4 {
+    position: absolute;
+    margin: auto;
+    top: 90%;
+    left: 80%;
+}
+.flower-5 {
+    position: absolute;
+    margin: auto;
+    top: 321%;
+    left: 72%;
+}
+.flower-6 {
+    position: absolute;
+    margin: auto;
+    top: 120%;
+    left: 3%;
+}
+.flower-7 {
+    position: absolute;
+    margin: auto;
+    top: 190%;
+    left: 90%;
+}
+
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+
+.grid-item{transform-origin: center center !important;}
+
+
+/* mobile */
+@media only screen and (min-width: 800px)   {
+        .grid-container {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  grid-template-rows: 400px 400px 400px 400px 400px;
+  grid-gap: 10px;
+  justify-content: center;
+}
+   }
+
+
+
+
+   
+
