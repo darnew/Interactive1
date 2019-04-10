@@ -17,6 +17,9 @@ h2 {
     font-size: 15px;
 }
 
+.playlist {
+  display: none;
+}
 
 .grid-container {
   display: grid;
@@ -72,6 +75,10 @@ h2 {
   animation-timing-function: linear; 
 }
 
+.grid-item:hover {
+    animation-name: none;
+}
+
 
 #h1 {font-family: 'gt_haptik_trialmedium_rotalic' }
 
@@ -125,6 +132,94 @@ h2 {
     top: 190%;
     left: 90%;
 }
+
+
+.info-1 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 50px;
+  left: 10px;
+}
+
+.info-2 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+}
+.info-3 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 200px;
+  left: 10px;
+}
+.info-4 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 200px;
+  right: 10px;
+}
+.info-5 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 400px;
+  left: 10px;
+}
+.info-6 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 400px;
+  right: 10px;
+  color: white;
+}
+.info-7 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 600px;
+  left: 10px;
+}
+.info-8 {
+  display: none;
+  font-size: 80px;
+  position: fixed;
+  top: 600px;
+  right: 10px;
+}
+
+.info-1.show {
+  display: block;
+}
+.info-2.show {
+  display: block;
+}
+.info-3.show {
+  display: block;
+}
+.info-4.show {
+  display: block;
+}
+.info-5.show {
+  display: block;
+}
+.info-6.show {
+  display: block;
+}
+.info-7.show {
+  display: block;
+}
+.info-8.show {
+  display: block;
+}
+
+
+
 
 
 @keyframes spin {
