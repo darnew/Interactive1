@@ -1,0 +1,7094 @@
+
+#u2u {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+   
+
+}
+
+.u2u1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2u2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2u3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+      
+}
+
+.u2u4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+      
+}
+
+.u2u5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+      
+}
+
+.u2u6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2u7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2u8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2u9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#rr {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -27px;
+    left: 35px;
+}
+
+.rr1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;  animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: 25px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    right: -1px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.rr9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.rr10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 77px;
+    left: 10px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#bb {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 60px;
+     
+}
+
+.bb1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.bb2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+ 
+}
+
+.bb3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+     
+}
+
+.bb4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.bb5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -36px;
+    left: 25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards; 
+    
+       
+}
+
+.bb6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left:25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.bb7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left:0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.bb8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -50px;
+    left: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.bb9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -20px;
+    left: -25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.bb10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 75px;
+    right: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+#aa {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top:-5px;
+    left: 45px;
+ 
+}
+
+.aa1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    right: 40px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.aa2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+     
+}
+
+.aa3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+     
+}
+
+.aa4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+       
+}
+
+.aa5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -53px;
+    right: -60px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+ 
+}
+
+.aa6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+    
+}
+
+.aa7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+    
+}
+
+.aa8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    right: 25px;
+     animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+        
+}
+
+#nn {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -78px;
+    left: 30px;
+
+}
+
+.nn1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+
+       
+}
+
+.nn2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.nn9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 28px;
+    left: -29px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nn10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 23px;
+    left: 5px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+#gg {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 85px;
+    left: -382px;
+
+}
+
+.gg1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+ 
+}
+
+.gg2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.gg3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.gg4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.gg5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.gg6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.gg7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.gg8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.gg9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 51px;
+    left: 24px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+
+}
+
+#ll {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 60px;
+}
+
+.ll1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top:  0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.ll2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.ll3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.ll4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.ll5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.ll6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+#oo {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -80px;
+    left: 60px;
+}
+
+.oo1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.oo6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.oo9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.oo10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#ww {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 40px;
+}
+
+.ww1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 5px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -45px;
+    left: 20px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 5px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.ww10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+
+
+#a {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top:350px;
+    left: 50px;
+}
+
+.a1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    right: 40px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.a2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+     
+}
+
+.a3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+     
+}
+
+.a4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+       
+}
+
+.a5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -53px;
+    right: -60px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+ 
+}
+
+.a6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+    
+}
+
+.a7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+    
+}
+
+.a8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    right: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+        
+}
+
+#b {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -79px;
+    left: 50px;
+     
+}
+
+.b1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.b2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+ 
+}
+
+.b3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.b4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+   
+}
+
+.b5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -36px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+    
+       
+}
+
+.b6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left:25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.b7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left:0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.b8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.b9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -20px;
+    left: -25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.b10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 75px;
+    right: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+#c {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -3px;
+    left: 85px;
+}
+
+
+.c1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.c2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.c3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+       
+}
+
+.c4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.c5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.c6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.c7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -80px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+ 
+}
+
+.c8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -28px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+#d {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -3px;
+    left: 65px;
+    
+}
+
+.d1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.d2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.d3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.d4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.d5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -38px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.d6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.d7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -52px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.d8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -15px;
+    left: -25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.d9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+
+#e {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -79px;
+    left: 95px;
+}
+
+.e1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.e2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.e3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+  
+}
+
+.e4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+
+}
+
+.e5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.e6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.e7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.e8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.e9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 37px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+#f {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 95px;
+}
+
+.f1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.f2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.f3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.f4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+         
+}
+
+.f5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -80px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+.f6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.f9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 37px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+}
+
+#g {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 120px;
+    left: -659px;
+}
+
+.g1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+ 
+}
+
+.g2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.g3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.g4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.g5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.g6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.g7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.g8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.g9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 51px;
+    left: 24px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+#h {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 90px;
+}
+
+.h1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.h2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.h3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.h4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    right: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.h5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.h6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     }
+
+.h7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+  
+}
+
+.h8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -28px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.h9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 37px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     }
+
+#i {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 65px;
+}
+
+.i1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.i2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.i3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: : -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+   
+}
+
+.i4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: : -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+.i5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.i6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: -3px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.i7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -53px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        } 
+
+.i8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 77px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+#j {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 120px;
+}
+
+.j1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.j2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.j3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.j4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.j5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.j6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -80px;
+    left: -2px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.j7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+        
+}
+
+#k {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 67px;
+}
+
+.k1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.k2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.k3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.k4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.k5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -38px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.k6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 18px;
+    left: 16px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.k7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 18px;
+    left: 16px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.k8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -80px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.k9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 20px;
+    left: -16px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#l {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 67px;
+}
+
+.l1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top:  0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.l2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.l3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.l4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.l5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.l6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+#m {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 35px;
+    left: -636px;
+}
+
+.m1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.m3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -2px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -2px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.m9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 20px;
+    left: -18px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.m10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#n {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -22px;
+    left: 90px;
+}
+
+.n1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.n4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 28px;
+    left: -29px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.n10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 23px;
+    left: 5px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#o {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -30px;
+    left: 94px;
+}
+
+.o1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.o6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.o9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.o10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#p {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 69px;
+}
+
+
+.p1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.p4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 26px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.p8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    right: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.p9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#q {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 67px;
+}
+
+.q1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.q4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.q9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 30px;
+    left: 6px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.q10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -5px;
+    left: -32px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#r {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -84px;
+    left: 67px;
+}
+
+.r1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    right: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.r9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.r10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 77px;
+    left: 10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+#s {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 115px;
+    left: -637px;
+}
+
+.s1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: 23px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    right: 45px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 20px;
+    left: 12px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.s5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 20px;
+    left: 12px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 23px;
+    left: 10px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 5px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.s8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -17px;
+    left: -20px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#t {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -69px;
+    left: 115px;
+}
+
+.t1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.t2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.t3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: : -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.t4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.t5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left:-28px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+      
+
+    
+}
+
+.t6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#u {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 117px;
+}
+
+.u1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.u9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#v {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -27px;
+    left: 70px;
+}
+
+.v1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.v2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.v3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.v4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.v5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.v6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.v7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#w {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -30px;
+    left: 65px;
+}
+
+.w1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 5px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -45px;
+    left: 20px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 5px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.w10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#x {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -25px;
+    left: 70px;
+}
+
+.x1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -77px;
+    left: 50px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 76px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -37px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 16px;
+    left: 13px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -38px;
+    left: -3px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: -28px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.x9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 36px;
+    left: 2px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#y {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 95px;
+    left: -621px;
+}
+
+.y1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.y2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.y3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.y4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.y5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -52px;
+    left: 15px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.y6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 10px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#z {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -27px;
+    left: 80px;
+}
+
+.z1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 76px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: 12px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.z8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: 18px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#one {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 90px;
+    left: -154px;
+}
+
+.one1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.one2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.one3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.one4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.one5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.one6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -52px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.one7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -70px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#two {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -79px;
+    left: 116px;
+}
+
+.two1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: -25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.two7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -3px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.two9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#three {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -76px;
+    left: 90px;
+}
+
+.three1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.three2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.three3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.three4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.three5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.three6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.three7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.three8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.three9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -39px;
+    left: 23px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#four {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -79px;
+    left: 115px;
+}
+
+.four1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -2px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.four8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -2px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#five {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -30px;
+    left: 120px;
+}
+
+.five1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.five2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.five3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.five4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -53px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.five5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+.five6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.five7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.five8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.five9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#six {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -76px;
+    left: 95px;
+
+}
+
+.six1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.six5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.six6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.six9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -28px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#seven {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 90px;
+    left: -667px;
+}
+
+.seven1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.seven4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: -29px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+#eight {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 95px;
+}
+
+.eight1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.eight3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.eight7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.eight10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.eight11 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 36px;
+    left: -2px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+#nine {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 91px;
+}
+
+.nine1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: -27px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.nine8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.nine9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+       
+}
+
+#zero {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -53px;
+    left: 94px;
+}
+
+.zero1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+.zero8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero9 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -26px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.zero10 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -2px;
+    left: -27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+        
+}
+
+#qu {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 120px;
+    left: -416px;
+}
+
+.qu1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 50px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.qu2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.qu3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+
+.qu4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: -25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.qu5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -54px;
+    left: -3px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.qu6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.qu7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: 80px;
+    left: 27px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#ex {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -1px;
+    left: 117px;
+}
+
+.ex1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards; 
+      
+}
+
+.ex2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.ex3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+
+}
+
+.ex4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: 27px;
+    left: 1px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+#pe {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -53px;
+    left: 95px;
+}
+
+.pe1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: 83px;
+    left: 40px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+#co {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: 0px;
+    left: 121px;
+
+
+}
+
+.co1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: 70px;
+    left: 40px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.co2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:10px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:10px;
+    position: absolute;
+    top: 15px;
+    left: -10px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+   
+}
+
+#qo {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -70px;
+    left: 80px;
+}
+
+.qo1 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.qo2 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: -1px;
+    left: 20px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+.qo3 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: -1px;
+    left: 30px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+    
+}
+
+.qo4 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:15px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:15px;
+    position: absolute;
+    top: -1px;
+    left: 20px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.qo5 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:10px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:10px;
+    position: absolute;
+    top: 18px;
+    left: 0px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+      
+}
+
+.qo6 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:10px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:10px;
+    position: absolute;
+    top: -1px;
+    left: -20px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+     
+}
+
+.qo7 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:10px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:10px;
+    position: absolute;
+    top: -1px;
+    left: -30px;
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       }
+
+.qo8 {
+     background-color:#fff;
+    border:1px solid black;    
+    height:10px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:10px;
+    position: absolute;
+    top: -1px;
+    left: -20px; 
+    animation: glow 12s ;
+    animation-fill-mode: forwards;
+       
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 5px -5px #Ffffff;
+  }
+  to {
+    box-shadow: 0 0 5px 5px #F7DC6F;
+  }
+}
+
+@keyframes background {
+  50%   { background: white; }
+  100%  { background: black; }
+}
+
+body { 
+  animation: background 10s;
+  animation-fill-mode: forwards;
+}
+
+
