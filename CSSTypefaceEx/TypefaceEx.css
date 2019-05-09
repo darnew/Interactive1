@@ -434,7 +434,7 @@ body {background-color: black;}
     position: absolute;
     top: 25px;
     left: -1px; 
-    animation: glow1 9000ms alternate infinite ;
+    animation: glow1 12s ;
     animation-fill-mode: forwards;
        
 }
@@ -2260,8 +2260,425 @@ body {background-color: black;}
        
 }
 
+#two {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -700px;
+    left: -200px;
+    transform: scale(.7)
+}
 
+.two1 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
 
+       
+}
+
+.two2 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two3 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two4 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two5 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: -25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two6 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 10px;
+    left: -25px;
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+        
+}
+
+.two7 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -3px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two8 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.two9 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: 25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+#four {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -78px;
+    left: 65px;
+}
+
+.four1 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 40px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four2 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four3 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four4 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: -1px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four5 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -25px;
+    left: -25px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four6 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four7 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -2px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.four8 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -27px;
+    left: -2px; 
+    animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+
+}
+
+#seven {
+    background-color: none;
+    width:100px;
+    height: 100px;
+    position: relative;
+    top: -30px;
+    left: 100px;
+}
+
+.seven1 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 0px;
+    left: 50px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven2 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven3 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px;
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+        
+}
+
+.seven4 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: 25px;
+    left: 0px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven5 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -79px;
+    left: -29px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
+
+.seven6 {
+     background-color:;
+    border:1px solid black;    
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    width:20px;
+    position: absolute;
+    top: -1px;
+    left: -25px; 
+   animation: glow1 9000ms alternate infinite ;
+    animation-iteration-count: 6;
+    animation-fill-mode: forwards;
+       
+}
 
 @keyframes glow1 {
   from {
